@@ -1,4 +1,4 @@
-package com.example.daggerhilttutorial
+package com.example.daggerhilttutorial.module
 
 import dagger.Module
 import dagger.Provides
